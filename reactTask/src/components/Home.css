@@ -1,0 +1,20 @@
+.uid{
+    color: rgb(242, 202, 42);
+}
+.bb{
+    background-color: rgb(52, 119, 244);
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+}
+.bs{
+    background-color: rgb(52, 119, 244);
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: none;
+    color: white;
+    margin-left: 20px;
+}
